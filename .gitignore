@@ -5,6 +5,10 @@
 *.so
 *.dylib
 
+#no idea
+*.idea
+*.a
+
 # Test binary, build with `go test -c`
 *.test
 
