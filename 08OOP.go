@@ -49,6 +49,7 @@ func main()  {
 	//	impl *Map_K_V
 	//}
 
+	//引用类型：数组切片、map、channel、接口
 
 }
 
